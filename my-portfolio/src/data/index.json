@@ -1,0 +1,199 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./logos/javascript.png",
+      "title": "JS",
+      "description": "JS: Dynamic language with types and operators for Web Dev."
+    },
+    {
+      "id": "2",
+      "src": "./logos/python.png",
+      "title": "Python",
+      "description": "Python: Versatile language for various programming tasks."
+    },
+    {
+      "id": "3",
+      "src": "./logos/CSS.svg",
+      "title": "CSS",
+      "description": "CSS: Styling language for web design."
+    },
+    {
+      "id": "4",
+      "src": "./logos/HTML.webp",
+      "title": "HTML5",
+      "description": "HTML5: Markup language for structuring web content."
+    },
+    {
+      "id": "5",
+      "src": "./logos/nodejs.png",
+      "title": "Node.js",
+      "description": "Node.js: JavaScript runtime for server-side applications."
+    },
+    {
+      "id": "6",
+      "src": "./logos/react.png",
+      "title": "React.js",
+      "description": "React.js: Frontend library for building user interfaces."
+    },
+    {
+      "id": "7",
+      "src": "./logos/redux.png",
+      "title": "Redux.js",
+      "description": "Redux.js: State management tool for React applications."
+    },
+    {
+      "id": "8",
+      "src": "./logos/mui.png",
+      "title": "Material UI",
+      "description": "Material UI: React component library for modern UI design."
+    },
+    {
+      "id": "9",
+      "src": "./logos/pg.png",
+      "title": "PostgreSQL",
+      "description": "PostgreSQL: Powerful open-source relational database."
+    },
+    {
+      "id": "10",
+      "src": "./logos/api.png",
+      "title": "RestApi",
+      "description": "RestApi: Communication protocol for web services."
+    },
+    {
+      "id": "11",
+      "src": "./logos/django.svg",
+      "title": "Django",
+      "description": "Django: High-level Python web framework for rapid development."
+    },
+    {
+      "id": "12",
+      "src": "./logos/git.png",
+      "title": "Git",
+      "description": "Git: Distributed version control system for collaborative coding."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/Eli_Cohen.png",
+      "title": "My First HTML/CSS Page",
+      "description": "Lorem ipsum Lorem ipsum Lorem ipsum ",
+      "GitHub": "GitHub Repo",
+      "Website": "Website",
+      "link": "https://github.com/EgorChet/My_First_HTML_CSS_Page",
+      "website": "https://egorchet.github.io/My_First_HTML_CSS_Page/"
+    },
+    {
+      "id": "2",
+      "src": "./img/AW_APP.png",
+      "title": "Asset Watch",
+      "description": "Lorem ipsum Lorem ipsum Lorem ipsum ",
+      "GitHub": "GitHub Repo",
+      "Website": "Website",
+      "link": "https://github.com/EgorChet/AW_APP",
+      "website": "https://aw-app.onrender.com/home"
+    },
+    {
+      "id": "3",
+      "src": "./img/CommingSoon.png",
+      "title": "Comming Soon...",
+      "description": "Lorem ipsum Lorem ipsum Lorem ipsum ",
+      "link": "Comming soon...",
+      "website": "Comming soon..."
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum Lorem ipsum Lorem ipsum ",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum Lorem ipsum Lorem ipsum ",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum Lorem ipsum Lorem ipsum ",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Developers.Institute",
+      "degree": "Full Stack Developer (12-week, 440-hour)",
+      "date": "Oct 2023 - Present",
+      "diploma_link": "https://example.com/diploma",
+      "location": "Tel Aviv District, Israel · On-site",
+      "description": "Gaining proficiency in front-end technologies such as HTML, CSS, and JavaScript. Learning to develop complex web applications using React and Node.js. Building a strong foundation in back-end development with Python and Django. Enhancing skills in database management with SQL. Focusing on full-stack development techniques and modern web technologies. Actively working on various hands-on projects that apply real-world applications of the learned skills. These projects will be showcased on my GitHub profile upon completion.",
+      "logo": "./logos/download.png"
+    },
+    {
+      "institution": "Yandex Practicum",
+      "degree": "Python Developer / Data Analyst",
+      "date": "Sep 2023 - Present",
+      "location": "Tel Aviv District, Israel · Remote",
+      "description": "In-depth knowledge of SQL and PostgreSQL for database management. Proficient in Python programming for big data analysis, using tools like Jupyter Notebook and VSCode. Advanced data visualization skills with Seaborn, Plotly, and Dash. Expertise in creating interactive dashboards using Tableau. Hands-on experience with data manipulation using Pandas. Conducting and evaluating A/B tests for data-driven decision making. Successfully completed 13 real-world projects corresponding to each topic. These projects, showcasing my hands-on experience, are available on my GitHub profile. Enrolled in a 7-month course focusing on data analysis and visualization.",
+      "logo": "./logos/yandex_practicum.png",
+      "diploma_link": "https://example.com/diploma"
+    },
+    {
+      "institution": "Bayes Business School",
+      "degree": "BSc (Hons) Business Studies & Management",
+      "date": "Sep 2016 - Jul 2019",
+      "grade": "Class II Upper Division",
+      "activities": "Programme Representative, Student Ambassador, Student Councillor, Front-Runner Leadership and Discover Bloomberg Participant, Member of Cass Consultancy Society, President of Cass Russian Speaking Society and finally Cass Student Representative Officer.",
+      "diploma_link": "https://example.com/diploma",
+      "logo": "./logos/bayes_business_school.png"
+    },
+    {
+      "institution": "INTO London World Education Centre",
+      "degree": "Business Management and Law, Business and Law",
+      "date": "2015 - 2016",
+      "grade": "75",
+      "activities": "Student Representative.",
+      "diploma_link": "https://example.com/diploma",
+      "logo": "./logos/into_london.png"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "North-East Company",
+      "position": "Ecommerce Project Manager",
+      "type": "Full-time",
+      "date": "Jun 2021 - May 2023",
+      "location": "Moscow, Moscow City, Russia",
+      "description": "Led the development of an online store that accounted for 30% of retail revenue by the end of 2020. Integrated SaaS Payment System provider and Warehouse Accounting provider into our CRM system. Implemented an improved system of warehouse automation based on barcoding of individual goods. Built an online system for onboarding of new/existing Customer Support Managers, which accelerated the process by 15% and increased CSI by 15-20% within 2 months of completing the onboarding process.",
+      "logo": "./logos/north_east_company.png"
+    },
+    {
+      "company": "Procter & Gamble",
+      "position": "Customer & Channel Marketing Manager",
+      "type": "Full-time",
+      "date": "Jul 2019 - Jul 2020",
+      "location": "Moscow, Russian Federation · On-site",
+      "description": "Developed multi-brand activation in №1 Retail in RU resulting in 19% net revenue growth +32 in-out SKUs on top of 96 listed. Pioneered big data partnership on 3.6MM card holders, resulting in 9.3% growth in related categories and 15.6% in P&G sales. Launched long-term data-driven loyalty-based subscription program which enabled +21.3% Shave care sales growth. Proficient in using Monday.com, JIRA.",
+      "logo": "./logos/procter_and_gamble.png"
+    },
+    {
+      "company": "BubbleAd",
+      "position": "Account Manager",
+      "type": "Full-time",
+      "date": "Dec 2017 - May 2019",
+      "location": "London, United Kingdom · Hybrid",
+      "description": "Responsible for achieving growth, hitting sales targets, implementing a strategic plan that expands the customer base. Negotiated and carried out a contract with a chain of bars in London, which led to a partnership with a 37% revenue increase.",
+      "logo": "./logos/bubblead.png"
+    }
+  ]
+}
